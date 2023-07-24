@@ -1,0 +1,3 @@
+* Each peace of state that changes every time or need to be changes so its a state that we should define in a slice . 
+* Derived state are the state that we can calculate using some existing state . 
+* 
